@@ -1,0 +1,106 @@
+body {
+    background-color: #f3f7ff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333;
+    margin: 0;
+}
+
+#contenedor {
+    width: 850px;
+    margin: 20px auto;
+    background-color: white;
+    border: 1px solid #cccccc;
+}
+
+#encabezado {
+    background-color: #4d79d8;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#encabezado h1 {
+    margin: 0;
+    font-size: 32px;
+}
+
+#menu {
+    background-color: #dce7ff;
+    text-align: center;
+    padding: 12px;
+}
+
+#menu a {
+    color: #234a9b;
+    text-decoration: none;
+    margin: 0 12px;
+    font-weight: bold;
+}
+
+#menu a:hover {
+    text-decoration: underline;
+}
+
+.seccion {
+    padding: 20px 25px;
+    border-bottom: 1px solid #dddddd;
+}
+
+h2 {
+    color: #315eb5;
+}
+
+.dibujo {
+    text-align: center;
+    font-size: 42px;
+    background-color: #fff4d6;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.tarjetas {
+    text-align: center;
+}
+
+.tarjeta {
+    display: inline-block;
+    width: 125px;
+    margin: 5px;
+    padding: 10px 0;
+    background-color: #edf2ff;
+    border: 1px solid #cbd8ff;
+    border-radius: 8px;
+}
+
+.tarjeta span {
+    color: #315eb5;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.silabas {
+    text-align: center;
+}
+
+.silabas span {
+    display: inline-block;
+    background-color: #e1f6ed;
+    color: #176b4e;
+    margin: 5px;
+    padding: 12px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+li {
+    margin: 10px 0;
+}
+
+.pie {
+    background-color: #dce7ff;
+    text-align: center;
+    padding: 10px;
+    color: #31508c;
+    font-size: 14px;
+}
